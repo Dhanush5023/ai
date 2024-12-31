@@ -1,5 +1,4 @@
 import os
-from langchain.agents import Tool
 from langchain.llms import OpenAI
 from langchain.utilities import SerpAPIWrapper
 import streamlit as st
